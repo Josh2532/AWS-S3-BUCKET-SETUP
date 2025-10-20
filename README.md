@@ -12,7 +12,7 @@ This project showed how i configured my amazon  s3 bucket for public access
   
 4. uploaded my file (`inventory-springfield`)
  
-5. After creating my s3 bucket and uploading a file i added a JSON policy to make it publicly accessible from anywhere in the world on your browser .
+5. After creating my S3 bucket and uploading a file i added a JSON policy to make it publicly accessible from anywhere in the world on your browser by clicking on the "permissions tab"  and also click on "Edit bucket policy" to input the Json policy  .
 
 
 
